@@ -27,7 +27,7 @@ Execute o menu interativo:
 ```
 node menu.js
 ``` 
-##📋 Exercícios
+## 📋 Exercícios
 01. Par ou Ímpar
 02. Classificação por Idade
 03. Status Escolar
