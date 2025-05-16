@@ -6,7 +6,9 @@ Esta lista de exercícios tem como objetivo praticar operações fundamentais, e
 
 ## ✅ Requisitos
 Node.js instalado na sua máquina
+
 Git (opcional para clonar o repositório)
+
 Terminal (com permissão para executar scripts)
 
 ## 🚀 Como Executar
