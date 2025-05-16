@@ -15,11 +15,11 @@ Terminal (com permissão para executar scripts)
 Clone o repositório (ou baixe como ZIP):
 
 ```
-git clone https://github.com/muriloscardev/MaisPraTiandCodificaListaExercicio.git  
+git clone https://github.com/muriloscardev/MaisPraTi-Codifica-ListaExercicio.git  
 ``` 
 Acesse a pasta do projeto:
 ```
-cd MaisPraTiandCodificaListaExercicio
+cd MaisPraTi-Codifica-ListaExercicio
 ````   
 Instale o prompt-sync:
 ```
@@ -45,3 +45,4 @@ node menu.js
 13. Média de N Números
 14. Fatorial
 15. Sequência de Fibonacci
+
